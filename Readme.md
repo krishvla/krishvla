@@ -19,12 +19,12 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishvla&layout=compact)](https://github.com/krishvla)
 
 
 ---
 
-### [Projects](https://toppng.com/uploads/preview/services-icons-implementation-01-01-project-implementation-icon-11563038221vwvtsitw9h.png)
+### [<img align="left" alt="My Projects" width="26px" src="https://toppng.com/uploads/preview/services-icons-implementation-01-01-project-implementation-icon-11563038221vwvtsitw9h.png" >][Projects]
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishvla&repo=weatherapp)](https://github.com/krishvla/weatherapp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishvla&repo=Hackathon-secure)](https://github.com/krishvla/Hackathon-secure)
@@ -41,7 +41,7 @@
 
 ---
 
-<img align="left" alt="krishvla's Github Stats" src="https://github-readme-stats.vercel.app/api?username=krishvla&show_icons=true&hide_border=true" />
+<img align="left" alt="krishvla's Github Stats" src="https://github-readme-stats.vercel.app/api?username=krishvla&show_icons=true&hide_border=true&include_all_commits=true&hide=total_prs,total_issues" />
 
 
 [htbprofile]: https://www.hackthebox.eu/profile/235903
