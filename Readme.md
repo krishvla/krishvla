@@ -1,10 +1,10 @@
-### Hi there, I'm Jesse - aka [vamsivla]
+### Hi there, I'm Vamsi - aka [vamsivla]
 
-## I'm a Student and Full Stack Develope !
+## I'm a Student and Full Stack Developer !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to watch One-Piece
-
+---
 <br />
 
 ### Technical Stack
@@ -13,11 +13,11 @@
 [<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">]
 [<img align="left" alt="Vue Js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">]
 [<img align="left" alt="Hacking" width="26px" src="https://image.flaticon.com/icons/png/512/843/843280.png">]
-[<img align="left" alt="Hacking" width="26px" src="https://app.hackthebox.eu/images/logos/logo-htb.svg">][htbprofile]
+[<img align="left" alt="Hacking" width="26px" src="https://forum.hackthebox.eu/uploads/0e90579ee796fa5d59bea8bd64c3a4e7.png">][htbprofile]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-<br />
+
 <br />
 
 ---
