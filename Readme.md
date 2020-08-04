@@ -7,15 +7,15 @@
 ---
 
 ### Technical Stack
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">]
-[<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png">]
-[<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">]
-[<img align="left" alt="Vue Js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">]
-[<img align="left" alt="Hacking" width="26px" src="https://image.flaticon.com/icons/png/512/843/843280.png">]
-[<img align="left" alt="Hacking" width="26px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHvMeJi2yXd1A/company-logo_200_200/0?e=2159024400&v=beta&t=8v8emLtltvIv-zUuLs1yMs4HIVoz64ydTTl9m5PDh3A">]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png">
+<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
+<img align="left" alt="Vue Js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+<img align="left" alt="Hacking" width="26px" src="https://image.flaticon.com/icons/png/512/843/843280.png">
+<img align="left" alt="Hacking" width="26px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHvMeJi2yXd1A/company-logo_200_200/0?e=2159024400&v=beta&t=8v8emLtltvIv-zUuLs1yMs4HIVoz64ydTTl9m5PDh3A">
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <br />
 
@@ -24,7 +24,7 @@
 
 ---
 
-### [<img align="left" alt="My Projects" width="26px" src="https://toppng.com/uploads/preview/services-icons-implementation-01-01-project-implementation-icon-11563038221vwvtsitw9h.png" >][Projects]
+### <img align="left" alt="My Projects" width="26px" src="https://toppng.com/uploads/preview/services-icons-implementation-01-01-project-implementation-icon-11563038221vwvtsitw9h.png" />Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishvla&repo=weatherapp)](https://github.com/krishvla/weatherapp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishvla&repo=Hackathon-secure)](https://github.com/krishvla/Hackathon-secure)
@@ -41,7 +41,7 @@
 
 ---
 
-<img align="left" alt="krishvla's Github Stats" src="https://github-readme-stats.vercel.app/api?username=krishvla&show_icons=true&hide_border=true&include_all_commits=true&hide=total_prs,total_issues" />
+<img align="left" alt="krishvla's Github Stats" src="https://github-readme-stats.vercel.app/api?username=krishvla&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 
 
 [htbprofile]: https://www.hackthebox.eu/profile/235903
