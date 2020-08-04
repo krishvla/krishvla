@@ -28,9 +28,9 @@
 <br />
 
 ### Connect with me:
-[<img align="left" alt="krishvla | HTB" width="22px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHvMeJi2yXd1A/company-logo_200_200/0?e=2159024400&v=beta&t=8v8emLtltvIv-zUuLs1yMs4HIVoz64ydTTl9m5PDh3A">][htbprofile]
-[<img align="left" alt="krishvla | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="krishvla | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="krishvla | HTB" width="66px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHvMeJi2yXd1A/company-logo_200_200/0?e=2159024400&v=beta&t=8v8emLtltvIv-zUuLs1yMs4HIVoz64ydTTl9m5PDh3A">][htbprofile]
+[<img align="left" alt="krishvla | LinkedIn" width="66px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="krishvla | Instagram" width="66px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
