@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to watch One-Piece
+- :cyclone:  Cyber Security Enthusiastic
 ---
 
 ### Technical Stack
@@ -24,6 +25,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishvla&layout=compact)](https://github.com/krishvla)
 
+<br />
+
+### Connect with me:
+[<img align="left" alt="krishvla | HTB" width="22px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHvMeJi2yXd1A/company-logo_200_200/0?e=2159024400&v=beta&t=8v8emLtltvIv-zUuLs1yMs4HIVoz64ydTTl9m5PDh3A">][htbprofile]
+[<img align="left" alt="krishvla | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="krishvla | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 
 ---
 
@@ -48,3 +57,5 @@
 
 
 [htbprofile]: https://www.hackthebox.eu/profile/235903
+[linkedin]: https://www.linkedin.com/in/vamsivla
+[instagram]: https://www.instagram.com/vamsi_vla/
