@@ -15,8 +15,8 @@
 <img align="left" alt="Hacking" width="26px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHvMeJi2yXd1A/company-logo_200_200/0?e=2159024400&v=beta&t=8v8emLtltvIv-zUuLs1yMs4HIVoz64ydTTl9m5PDh3A">
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<br />
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishvla&layout=compact)](https://github.com/krishvla)
