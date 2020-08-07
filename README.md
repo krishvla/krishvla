@@ -1,6 +1,6 @@
 ### Hi there, I'm Vamsi - aka [krishvla]
 
-## I'm a Student and Full Stack Developer !
+## I'm a Student and a Full Stack Developer !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to watch One-Piece
