@@ -1,4 +1,4 @@
-### Hi there, I'm Vamsi - aka [krishvla](http://vlabox.me/)
+### Hi there, I'm Vamsi - aka [[krishvla](http://vlabox.me/)]
 
 ## I'm a Student and a Full Stack Developer !
 - 🌱 I’m currently learning everything 🤣
