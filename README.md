@@ -48,6 +48,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishvla&repo=AR-with-Flutter)](https://github.com/krishvla/AR-with-Flutter)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishvla&repo=coda_challenge)](https://github.com/krishvla/coda_challenge)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishvla&repo=dbms_project)](https://github.com/krishvla/dbms_project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishvla&repo=student_report_card)](https://github.com/krishvla/student_report_card)
 
 
 ---
