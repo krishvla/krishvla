@@ -35,8 +35,8 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishvla&layout=compact&theme=algolia&hide_border=true)](https://github.com/krishvla)
-[![Github Stat's](https://github-readme-stats.vercel.app/api?username=krishvla&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues&theme=algolia)](https://github.com/krishvla)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishvla&layout=compact&theme=holi&hide_border=true)](https://github.com/krishvla)
+[![Github Stat's](https://github-readme-stats.vercel.app/api?username=krishvla&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues&theme=holi)](https://github.com/krishvla)
 
 <br/>
 
@@ -44,11 +44,11 @@
 
 ### <img align="left" alt="My Projects" width="26px" src="https://toppng.com/uploads/preview/services-icons-implementation-01-01-project-implementation-icon-11563038221vwvtsitw9h.png" />Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishvla&repo=weatherapp&theme=algolia&hide_border=true)](https://github.com/krishvla/weatherapp)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishvla&repo=Hackathon-secure&theme=algolia&hide_border=true)](https://github.com/krishvla/Hackathon-secure)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishvla&repo=AR-with-Flutter&theme=algolia&hide_border=true)](https://github.com/krishvla/AR-with-Flutter)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishvla&repo=coda_challenge&theme=algolia&hide_border=true)](https://github.com/krishvla/coda_challenge)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishvla&repo=dbms_project&theme=algolia&hide_border=true)](https://github.com/krishvla/dbms_project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishvla&repo=student_report_card&theme=algolia&hide_border=true)](https://github.com/krishvla/student_report_card)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishvla&repo=weatherapp&theme=holi&hide_border=true)](https://github.com/krishvla/weatherapp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishvla&repo=Hackathon-secure&theme=holi&hide_border=true)](https://github.com/krishvla/Hackathon-secure)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishvla&repo=AR-with-Flutter&theme=holi&hide_border=true)](https://github.com/krishvla/AR-with-Flutter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishvla&repo=coda_challenge&theme=holi&hide_border=true)](https://github.com/krishvla/coda_challenge)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishvla&repo=dbms_project&theme=holi&hide_border=true)](https://github.com/krishvla/dbms_project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishvla&repo=student_report_card&theme=holi&hide_border=true)](https://github.com/krishvla/student_report_card)
 
 ---
